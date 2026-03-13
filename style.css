@@ -153,3 +153,9 @@ body {
     transform: translate(-50%, -50%) rotate(-45deg);
   }
 }
+
+.section2 {
+  width: 200px;
+  height: 200px;
+  background: red;
+}
